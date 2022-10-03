@@ -2,14 +2,14 @@
 
 ## Links
 
-- [Generic Useful Tools](https://github.com/MrTriad/Toolbox/edit/main/README.md#generic-useful-tools)
-- [Linux utilities](https://github.com/MrTriad/Toolbox/edit/main/README.md#linux-utilities)
-- [Security offensive](https://github.com/MrTriad/Toolbox/edit/main/README.md#security-offensive)
-	- [Reconnaissance](https://github.com/MrTriad/Toolbox/edit/main/README.md#reconnaissance)
-		- [Domain/Network OSINT](https://github.com/MrTriad/Toolbox/edit/main/README.md#domainnetwork-osint)
-	- [Web](https://github.com/MrTriad/Toolbox/edit/main/README.md#web)
-	- [Wordlists](https://github.com/MrTriad/Toolbox/edit/main/README.md#wordlists)
-	- [Social Engineering](https://github.com/MrTriad/Toolbox/edit/main/README.md#social-engineering)
+- [Generic Useful Tools](https://github.com/MrTriad/Toolbox/#generic-useful-tools)
+- [Linux utilities](https://github.com/MrTriad/Toolbox/#linux-utilities)
+- [Security offensive](https://github.com/MrTriad/Toolbox/#security-offensive)
+	- [Reconnaissance](https://github.com/MrTriad/Toolbox/#reconnaissance)
+		- [Domain/Network OSINT](https://github.com/MrTriad/Toolbox/#domainnetwork-osint)
+	- [Web](https://github.com/MrTriad/Toolbox/#web)
+	- [Wordlists](https://github.com/MrTriad/Toolbox/#wordlists)
+	- [Social Engineering](https://github.com/MrTriad/Toolbox/#social-engineering)
 
 # Generic useful tools
 
