@@ -1,3 +1,5 @@
+# SNIFFING
+
 Packet sniffing allows a person to observe and access the entire network’s traffic from a given point. It monitors any bit of information entering or leaving the network.
 
 ### Types of sniffing
