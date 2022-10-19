@@ -9,6 +9,7 @@
 	- [Web](https://github.com/MrTriad/Toolbox/tree/main/Web#web)
 	- [Wordlists](https://github.com/MrTriad/Toolbox/tree/main/Wordlists#wordlists)
 	- [Social Engineering](https://github.com/MrTriad/Toolbox/tree/main/Social_Engineering#social-engineering)
+	- [Sniffing](https://github.com/MrTriad/Toolbox/tree/main/Sniffing_and_Spoofing)
 
 # Generic useful tools
 
