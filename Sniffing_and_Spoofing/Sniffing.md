@@ -2,6 +2,9 @@
 
 Packet sniffing allows a person to observe and access the entire network’s traffic from a given point. It monitors any bit of information entering or leaving the network.
 
+## Tools
+- - [Responder](https://github.com/lgandx/Responder): A LLMNR, NBT-NS, and MDNS poisoner. It responds to specific NBT-NS (NetBIOS Name Service) queries based on their name suffix. By default, the tool only responds to a File Server Service request, which is for SMB.
+
 ### Types of sniffing
 - Passive: sniffing on hub-based networks.
 - Active: sniffing on switch-based networks. (More common)
